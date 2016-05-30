@@ -4,9 +4,11 @@ Shows a list of 6 favorite movies. Allows to play the movie trailers.
 
 ## Getting Started
 
-'''
+
+```
 https://github.com/Roomtailors/udacity_movietrailer.git
-'''
+```
+
 
 ### Prerequisities
 
