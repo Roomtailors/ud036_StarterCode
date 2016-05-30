@@ -1,4 +1,4 @@
-import media
+from LocalServer.mvoies.fresh_tomatoes import media
 from LocalServer.movies.fresh_tomatoes import open_movies_page
 
 # Create instances of media for every movie
