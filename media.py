@@ -1,5 +1,6 @@
 import webbrowser
 
+
 class Movie():
     """Class for all movie objects to store data
 
