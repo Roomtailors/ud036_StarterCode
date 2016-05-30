@@ -8,16 +8,19 @@ life_of_brian = media.Movie("Life of Brian",
                         "http://assets.cdn.moviepilot.de/files/48477f5143c8437aff1f276fbabae44fea9860079356a7c7aff5b57a4e44/Das_Leben_des_Brian.jpg",  # NOQA
                         "https://youtu.be/o-wZsE9jlMQ"  # NOQA
                         )
+
 avatar = media.Movie("Avatar",
                      "A man on an alien planet.",
-                     "https://resizing.flixster.com/PIhRpOR9nW85stswkSet-W-np_w=/800x1200/v1.bTsxMTE3Njc5MjtqOzE3MDU2OzIwNDg7ODAwOzEyMDA",  # NOQA
-                     "https://www.youtube.com/watch?v=d1_JBMrrYw8"  # NOQA
+                     "https://resizing.flixster.com/PIhRpOR9nW85stswkSet-W-np_w=/800x1200/v1.bTsxMTE3Njc5MjtqOzE3MDU2OzIwNDg7ODAwOzEyMDA", # NOQA
+                     "https://www.youtube.com/watch?v=d1_JBMrrYw8" # NOQA
                      )
 
 snatch = media.Movie("Snatch",
                      "A diamond gets stolen.",
                      "http://assets.cdn.moviepilot.de/files/8b5676c5148cf7fa952a74fcb9e3323be1c6ed98c600f48e994b90999cd1/snatch.jpg",  # NOQA
                      "https://www.youtube.com/watch?v=u8jVN5UAji8"  # NOQA
+                     "http://assets.cdn.moviepilot.de/files/8b5676c5148cf7fa952a74fcb9e3323be1c6ed98c600f48e994b90999cd1/snatch.jpg", # NOQA
+                     "https://www.youtube.com/watch?v=u8jVN5UAji8" # NOQA
                      )
 
 alien = media.Movie("Alien",
