@@ -1,5 +1,6 @@
 import webbrowser
 
+
 class Movie():
     """Class for all movie objects to store data
 
@@ -10,7 +11,12 @@ class Movie():
         trailer_youtube (str): URL to the movie trailer
     """
 
-    def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube):
+    def __init__(
+            self,
+            movie_title,
+            movie_storyline,
+            poster_image,
+            trailer_youtube):
         self.title = movie_title
         self.storyline = movie_storyline
         self.poster_image_url = poster_image
